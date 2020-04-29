@@ -1,0 +1,19 @@
+# ==== 以下、変更不要です。 ====
+#１行目にコミットメッセージを書いて、そのまま保存してください。
+#ここから下を消す必要はありません。
+# ======== Format ========
+# Prefix Subject
+#
+# Commit body
+#
+# Issue ID
+
+
+# ==== Prefix ====
+# fix
+# feat
+# docs
+# style
+# refactor
+# test
+# chore
