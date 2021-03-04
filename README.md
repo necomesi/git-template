@@ -142,5 +142,5 @@ ex) ビルドタスクの改修や別 JS class に手を入れる時
 **空のコミットの作り方**
 
 ```bash
-git commit --allow-empty -m "#{プルリクエストのタイトル}"
+git commit --allow-empty -m "Initial commit"
 ```
